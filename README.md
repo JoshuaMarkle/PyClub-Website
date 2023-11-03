@@ -5,11 +5,11 @@ Website for the PyClub: [https://joshuamarkle.github.io/PyClub-Website/](https:/
 - Fork the repository by clicking the fork button
 From here, there are two options to contributing
 
-__### Option 1__
+~~### Option 1 ~~
 
-__- In your repository, press the `.` and it will open VSCode inside of the browser__
-__- Make your code contributions__
-__- Push the changes with VSCode by clicking the button that looks like a flowchart and commiting with a message__
+~~- In your repository, press the `.` and it will open VSCode inside of the browser~~
+~~- Make your code contributions~~ 
+~~- Push the changes with VSCode by clicking the button that looks like a flowchart and commiting with a message~~
 
 ### The correct option
 - In your repository, clone the repo onto your own computer using the terminal
