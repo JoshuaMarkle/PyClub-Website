@@ -25,8 +25,6 @@ git clone {copied text}
 cd PyClub-Website
 vim index.html
 ```
-```
-```
 1. Install vim
 2. Install lazygit
 3. Make your changes with vim
