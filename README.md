@@ -20,16 +20,18 @@ set up a SSH key.
 
 Click the Code button on the repo you want to clone, select the SSH tab, copy the line of code in the drop-down, and in a terminal type: 
 
-`git clone {copied text}`
+```
+git clone {copied text}
 cd PyClub-Website
 vim index.html
+```
 ```
 ```
 1. Install vim
 2. Install lazygit
 3. Make your changes with vim
 4. run lazygit
-5. type a to `git add`, c to commit, and P to push
+5. type a to `git add .`, c to commit, and P to push
 6. delete vscode
 
 ## Creating a pull request
