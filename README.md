@@ -5,7 +5,7 @@ Website for the PyClub: [https://joshuamarkle.github.io/PyClub-Website/](https:/
 - Fork the repository by clicking the fork button
 From here, there are two options to contributing
 
-~~### Option 1 ~~
+~~### Option 1~~
 
 ~~- In your repository, press the `.` and it will open VSCode inside of the browser~~
 ~~- Make your code contributions~~ 
